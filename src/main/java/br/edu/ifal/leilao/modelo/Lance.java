@@ -1,4 +1,4 @@
-package br.edu.ifal.modelo;
+package br.edu.ifal.leilao.modelo;
 
 public class Lance {
 	private Usuario usuario;

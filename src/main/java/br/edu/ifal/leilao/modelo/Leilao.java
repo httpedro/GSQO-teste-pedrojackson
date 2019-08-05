@@ -1,4 +1,4 @@
-package br.edu.ifal.modelo;
+package br.edu.ifal.leilao.modelo;
 
 import java.util.ArrayList;
 import java.util.List;
